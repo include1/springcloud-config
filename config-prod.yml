@@ -1,1 +1,2 @@
-
+config:
+  info: "master brach,spirngcloud/config-prod.yml version=1"
